@@ -14,8 +14,6 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
-import static akka.actor.TypedActor.self;
-
 /**
  * Created by baptiste on 08/06/17.
  * Hi
